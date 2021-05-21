@@ -1,0 +1,42 @@
+.img-adiccion1 {
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: border-box;
+}
+
+.contenedor-img {
+    width: 100%;
+    margin-top: -120px;
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.contenedor-img h1 {
+    color: blue;
+    padding-top: 150px;
+    font-family: georgia;
+}
+
+.piepagina-img {
+    width: 10%;
+    padding: 10px;
+}
+
+.contenedor-footer {
+    background: chartreuse;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.contenedor-p {
+    font-family: georgia;
+}
+
+.contenedor-img-tratamiento {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
